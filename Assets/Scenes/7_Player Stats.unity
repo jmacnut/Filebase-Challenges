@@ -307,7 +307,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aea28d879d7b64e86af107b911af85ac, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerName: Henry
+  playerName: Harriet
   attackLevel: 50
   magicLevel: 30
   smithingLevel: 15

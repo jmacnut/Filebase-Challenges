@@ -22,7 +22,6 @@ public class PSUIManager : MonoBehaviour
    private void Start()
    {
       playerStats = GameObject.Find("Player").GetComponent<PlayerStats>();
-      //textField = GameObject.Find("Player_Name_Text").GetComponent<Text>();
       playerName.text = "Player Name: " + playerStats.playerName;
       attackLevel.text = "Attack Level: " + playerStats.attackLevel;
       magicLevel.text = "Magic Level: " + playerStats.magicLevel;
