@@ -56,7 +56,7 @@ public class PlayerPainting : MonoBehaviour
          {
             Instantiate(dropletPrefab, this.transform);
             timer = 2f;
-         }
+         } 
       }
 
 
